@@ -8,6 +8,7 @@ The goal is to group customers based on their demographic characteristics and pu
 ##Dataset
 
 Source: Kaggle (Customer Personality Analysis Dataset)
+https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering/data
 
 Description:
 The dataset contains information about customers, including demographic details (age, marital status, income), household composition (number of children and teenagers), and purchasing behavior across various product categories such as wine, meat, fruits, and other goods.
